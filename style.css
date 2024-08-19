@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+.content {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.useript label {
+    display: block;
+    font-weight: 900;
+    font-size: 20px;
+}
+.useript input {
+    width: 50px;
+    border-radius: 3px;
+    padding: 2px 4px;
+}
+#submit {
+    display: block;
+    margin-top: 10px;
+    width: 60px;
+    padding: 2px 4px;
+    cursor: pointer;
+    background-color: cornflowerblue;
+    border-radius: 2px;
+}
+.useroutput {
+    margin: 10px 10px 20px 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.px {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+/* .pxfind {
+    overflow-x: scroll;
+    padding-left: 10px;
+} */
+.over {
+    overflow-x: scroll;
+    padding-left: 10px;
+}
+.pxfind p {
+    text-align: center;
+}
+#htmlappend {
+    margin: 10px;
+    width: 100%;
+}
+.formul {
+    display: flex;
+    font-weight: 900;
+    margin-top: 10px;
+    width: 95%;
+}
+.flex {
+    display: inline-block;
+    overflow-x: scroll ;
+}
+.mult {
+    padding: 0px 7px 0px 3px;
+}
+.ans {
+    border: 2px solid black;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
